@@ -1,0 +1,14 @@
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  script:
+    - docker build -t pipeline-docker-template .
+    - docker images
+
+deploy:
+  stage: deploy
+  script:
+    - docker run -d -p 8080:80 pipeline-docker-template
