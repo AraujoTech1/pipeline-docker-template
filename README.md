@@ -1,4 +1,4 @@
-# Pipeline Docker Template
+<h1 align="center">Pipeline Docker Template</h1>
 
 Este repositório contém um projeto prático de **CI/CD** utilizando **Docker** e **GitLab CI/CD**. O objetivo do projeto é criar uma imagem Docker a partir de um template de site e executar essa imagem em um servidor utilizando o GitLab Runner.
 
