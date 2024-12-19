@@ -14,7 +14,7 @@ O objetivo deste projeto é demonstrar o processo de **integração contínua (C
 
 ## Tecnologias Utilizadas
 
-![GitLab](https://img.shields.io/badge/GitLab_CI/CD-000000?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
